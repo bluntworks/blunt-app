@@ -1,0 +1,15 @@
+{
+  "name": "blunt-app",
+  "version": "0.0.1",
+  "description": "Http server wrapper -- think express !!",
+  "main": "blunt.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "author": "bluntworks",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-signature": "~1.0.1",
+    "cookie": "~0.1.0"
+  }
+}
